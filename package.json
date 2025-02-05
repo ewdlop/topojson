@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "package-preamble": "0.1",
-    "rollup": "0.49",
+    "rollup": "4.34",
     "rollup-plugin-ascii": "0.0",
     "rollup-plugin-node-resolve": "3",
     "tape": "4",
